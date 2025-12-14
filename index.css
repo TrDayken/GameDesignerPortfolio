@@ -54,3 +54,7 @@ tr{
     print-color-adjust: exact;
   }
 }
+
+.container {
+    max-width: 1200px !important;
+}
